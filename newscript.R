@@ -1,2 +1,2 @@
 #new code
-rnorm(1000)
+rnorm(1000, 100, 5)
